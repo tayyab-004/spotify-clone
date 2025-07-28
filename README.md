@@ -21,7 +21,7 @@ To use The Music Master, follow these steps:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/spotify-clone.git
+git clone https://github.com/tayyab-004/spotify-clone.git
 ```
 
 2. Open `index.html` in your preferred web browser.
